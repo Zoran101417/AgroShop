@@ -1,2 +1,2 @@
 # AgroShop
-E-Commerce project for seling agroproducts
+E-Commerce project for selling agro products
